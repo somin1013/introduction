@@ -1,0 +1,217 @@
+.desktop {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1466px;
+    height: 1024px;
+    align-items: flex-start;
+    gap: 0px -22px;
+    padding: 19px 0px;
+    position: relative;
+    background-color: #ed4040;
+  }
+  
+  .desktop .frame {
+    display: flex;
+    flex-wrap: wrap;
+    width: 575px;
+    height: 648px;
+    align-items: flex-start;
+    gap: 44px -84px;
+    padding: 30px 98px;
+    position: relative;
+    background-color: #ed4040;
+  }
+  
+  .desktop .image {
+    position: relative;
+    width: 387px;
+    height: 392px;
+    margin-left: -4.00px;
+    margin-right: -4.00px;
+    object-fit: cover;
+  }
+  
+  .desktop .star {
+    position: relative;
+    width: 84px;
+    height: 133px;
+  }
+  
+  .desktop .rectangle {
+    position: relative;
+    width: 360px;
+    height: 109px;
+  }
+  
+  .desktop .jeon-somin {
+    position: absolute;
+    width: 339px;
+    height: 60px;
+    top: 483px;
+    left: 109px;
+  }
+  
+  .desktop .div {
+    display: flex;
+    flex-direction: column;
+    width: 831px;
+    height: 638px;
+    align-items: center;
+    gap: 69px;
+    padding: 81px 25px;
+    position: relative;
+    background-color: #c7eed1;
+    border-radius: 80px;
+    overflow: hidden;
+  }
+  
+  .desktop .frame-2 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 123px;
+    background-color: #c7eed1;
+  }
+  
+  .desktop .line-stroke {
+    position: absolute;
+    width: 1px;
+    height: 62px;
+    top: 59px;
+    left: 151px;
+  }
+  
+  .desktop .img {
+    position: absolute;
+    width: 1px;
+    height: 62px;
+    top: 61px;
+    left: 441px;
+  }
+  
+  .desktop .element {
+    position: absolute;
+    width: 23px;
+    height: 22px;
+    top: 70px;
+    left: 201px;
+  }
+  
+  .desktop .image-2 {
+    position: absolute;
+    width: 271px;
+    height: 33px;
+    top: 69px;
+    left: 471px;
+  }
+  
+  .desktop .image-3 {
+    position: absolute;
+    width: 65px;
+    height: 36px;
+    top: 66px;
+    left: 64px;
+  }
+  
+  .desktop .image-4 {
+    position: absolute;
+    width: 62px;
+    height: 32px;
+    top: 65px;
+    left: 349px;
+  }
+  
+  .desktop .frame-3 {
+    position: relative;
+    width: 758px;
+    height: 123px;
+    background-color: #c7eed1;
+  }
+  
+  .desktop .line-stroke-2 {
+    position: absolute;
+    width: 1px;
+    height: 62px;
+    top: 37px;
+    left: 119px;
+  }
+  
+  .desktop .line-stroke-3 {
+    position: absolute;
+    width: 1px;
+    height: 62px;
+    top: 34px;
+    left: 498px;
+  }
+  
+  .desktop .image-5 {
+    position: absolute;
+    width: 129px;
+    height: 33px;
+    top: 43px;
+    left: 134px;
+  }
+  
+  .desktop .img-2 {
+    position: absolute;
+    width: 185px;
+    height: 33px;
+    top: 39px;
+    left: 534px;
+  }
+  
+  .desktop .image-6 {
+    position: absolute;
+    width: 61px;
+    height: 73px;
+    top: 26px;
+    left: 39px;
+  }
+  
+  .desktop .image-7 {
+    position: absolute;
+    width: 127px;
+    height: 33px;
+    top: 43px;
+    left: 323px;
+  }
+  
+  .desktop .frame-4 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 102px;
+    margin-bottom: -10.00px;
+    background-color: #c7eed1;
+  }
+  
+  .desktop .line-stroke-4 {
+    position: absolute;
+    width: 1px;
+    height: 62px;
+    top: 20px;
+    left: 197px;
+  }
+  
+  .desktop .img-3 {
+    position: absolute;
+    width: 521px;
+    height: 36px;
+    top: 28px;
+    left: 237px;
+  }
+  
+  .desktop .image-8 {
+    position: absolute;
+    width: 104px;
+    height: 36px;
+    top: 29px;
+    left: 48px;
+  }
+  
+  .desktop .frame-5 {
+    position: relative;
+    width: 284px;
+    height: 302px;
+  }
+  
